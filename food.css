@@ -376,5 +376,6 @@ text-decoration: none;
   }
   .Last ul li a{
     text-decoration: none;
-    color: pink;
+    color: tomato;
+    font-weight:bold;
   }
